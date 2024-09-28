@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import "../styles/reset.css";
 import { geistMono, geistSans } from "./fonts";
+import Footer from "@/components/common/footer/Footer";
 
 export const metadata: Metadata = {
   title: {
@@ -17,11 +18,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ko">
+    <html lang="ko" className="w-screen text-[16px]">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen w-full`}
       >
         {children}
+        <Footer />
       </body>
     </html>
   );
