@@ -1,0 +1,12 @@
+<svg width="current" height="current" viewBox="0 0 60 61" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="lightbulb_24dp_5F6368_FILL0_wght300_GRAD0_opsz24 3">
+<path id="Vector" d="M20.0001 44.6359L5.86572 30.5016L20.0001 16.3672L22.6732 19.0403L11.1732 30.5403L22.6345 42.0016L20.0001 44.6359ZM40.0001 44.6359L37.327 41.9628L48.827 30.4628L37.3657 19.0016L40.0001 16.3672L54.1345 30.5016L40.0001 44.6359Z" fill="url(#paint0_linear_1267_11263)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1267_11263" x1="15.2024" y1="17.5021" x2="28.9679" y2="50.7783" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00EB90"/>
+<stop offset="0.475839" stop-color="#00EB90"/>
+<stop offset="1" stop-color="#3F5EF4"/>
+</linearGradient>
+</defs>
+</svg>
