@@ -17,7 +17,7 @@ import BlogIcon from "@/icons/blog_icon.svg";
 
 const Footer = () => {
   return (
-    <footer className="p-[3rem] flex flex-col gap-[1.5rem]">
+    <footer className="p-[3rem] flex flex-col gap-[1.5rem] bg-white">
       <div className="flex gap-[13.25rem]">
         <section>
           <div className="flex gap-[1.25rem] pb-[2.125rem]">
