@@ -1,4 +1,4 @@
-import LogoIcon from "@/images/inglo_logo.svg";
+import TimelineImage from "@/images/timeline_image.svg";
 
 /**
  * @description
@@ -13,7 +13,11 @@ import LogoIcon from "@/images/inglo_logo.svg";
  */
 
 const AboutusTimeline = () => {
-  return <section>타임라인</section>;
+  return (
+    <section className="flex justify-center bg-gradient-to-b from-[#FFFFFF] to-[#EBFFF7]">
+      <TimelineImage />
+    </section>
+  );
 };
 
 export default AboutusTimeline;

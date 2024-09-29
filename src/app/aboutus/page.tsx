@@ -1,5 +1,6 @@
 import AboutusBanner from "@/components/aboutus/banner/AboutusBanner";
 import AboutusHeader from "@/components/aboutus/header/AboutusHeader";
+import AboutusMind from "@/components/aboutus/mind/AboutusMind";
 import AboutusTimeline from "@/components/aboutus/timeline/AboutusTimeline";
 import AboutusValue from "@/components/aboutus/value/AboutusValue";
 import React from "react";
@@ -16,6 +17,7 @@ const AboutusPage = () => {
         <AboutusBanner />
         <AboutusValue />
         <AboutusTimeline />
+        <AboutusMind />
       </main>
     </>
   );
