@@ -21,8 +21,8 @@ const Footer = () => {
       <div className="flex gap-[13.25rem]">
         <section>
           <div className="flex gap-[1.25rem] pb-[2.125rem]">
-            <LogoIcon />
-            <LogoTextIcon />
+            <LogoIcon width={42} height={42} />
+            <LogoTextIcon width={96} height={42} />
           </div>
           <p className="pb-[0.875rem] text-light_gray text-base font-semibold">
             작은 꿈에서 시작된 우리의 여정, <br />
