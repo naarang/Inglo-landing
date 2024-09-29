@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ko" className="w-screen text-[16px]">
+    <html lang="ko" className="text-[16px]">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased min-h-screen w-full`}
       >

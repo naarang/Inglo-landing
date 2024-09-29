@@ -13,6 +13,7 @@ const config: Config = {
         foreground: "var(--foreground)",
         white: "#FFFFFF",
         black: "#000000",
+        light_black: "#1F1F1F",
         primary: "#00EB90",
         light_green: "#EBFFF7",
         gray: "#A4A4A4",
